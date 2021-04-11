@@ -2,6 +2,11 @@
 Hamiltonian Circuits and the Icosian Game 
 
 ## Student Detail
-- Name: Avinal Kumar
-- Roll No.: 185067
 - Semester: 4th
+
+| Name | Roll No. |
+| --- | --- |
+| Puja Nehra | 185101 |
+| Harsimranjeet Singh Saini | 185087 |
+| Avinal Kumar | 185067 |
+
